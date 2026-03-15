@@ -34,3 +34,6 @@ https://matrixonelectronics.com/product/mx1bm1-battery-monitor-module/
 ## Documentation
 
 Datasheet included in this repository.
+
+Developed by Matrixon Electronics  
+https://matrixonelectronics.com
