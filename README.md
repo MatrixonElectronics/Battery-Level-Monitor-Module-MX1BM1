@@ -18,3 +18,19 @@ The [ MX1BM1 - Battery Level Monitor Module ](https://matrixonelectronics.com/pr
 - Low-voltage cut-off / battery protection systems
 - USB power diagnostics
 - Smart wearables and embedded systems
+
+## Project Guide
+
+Full tutorial and circuit explanation:
+
+https://matrixonelectronics.com/diy-battery-indicator-project-using-mx1bm1-voltage-monitor-module/
+
+## Product Page
+
+MX1BM1 Battery Level Monitor Module:
+
+https://matrixonelectronics.com/product/mx1bm1-battery-monitor-module/
+
+## Documentation
+
+Datasheet included in this repository.
